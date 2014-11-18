@@ -1,7 +1,8 @@
 Hello ,
 my first git;
-<<<<<<< HEAD
 Hello,aaaaa
-=======
-Hello,aaaaa
->>>>>>> dev
+adslkfjasldjfalsdjfassd
+asdlfjasdlfjasd
+fasldfkjasldkjfa
+sdfalsdfjkasdf
+asdfjalsdkjf
