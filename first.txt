@@ -1,3 +1,7 @@
 Hello ,
 my first git;
-Hello,alex
+<<<<<<< HEAD
+Hello,aaaaa
+=======
+Hello,aaaaa
+>>>>>>> dev
